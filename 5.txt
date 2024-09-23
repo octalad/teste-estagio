@@ -1,0 +1,10 @@
+Eu acenderia as luzes de duas salas
+
+dividindo nas 2 opçoes que vou ter
+
+fui na sala sem luz: ja sei qual dos interruptores é o da sala que eu fui, então apago uma das luzes acesas e vou em uma das salas
+que eu nao tinha ido ainda, independente da luz estar acesa ou nao, vou saber quais as salas dos outros 2 interruptores.
+
+fui em uma das salas que tem luz: fico entre duas opçoes de interruptores para aquela sala, apago ambas as luzes que estavam acesas e
+ligo a que estava apagada, vou em uma sala diferente da que eu fui inicialmente e independente da luz estar acesa ou nao, vou saber os 
+outros 2 interruptores.
